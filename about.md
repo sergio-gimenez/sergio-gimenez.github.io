@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About this website
+title: About me
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+I'll fill this part at some point. You can find me in [linkedin](https://www.linkedin.com/in/sergio-gimant/) in the meanwhile.

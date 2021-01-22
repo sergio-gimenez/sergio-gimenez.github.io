@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
 
 # File excludes
 exclude:
@@ -14,18 +14,19 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
-- jekyll-default-layout
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
 
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Sergio Giménez'
+description: 'I share stuff here'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+#logo: "https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree%2Fwhite-youtube-logo-transparent.html&psig=AOvVaw36i0MLBfgVoHf79GIike-D&ust=1611426501387000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjnh9SVsO4CFQAAAAAdAAAAABAI"
 
 # Pagination
 paginate: 5
@@ -51,6 +52,21 @@ collections:
     title: Posts
     output: true
     description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+    #feature_text: |
+    #  Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+
+# Collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
