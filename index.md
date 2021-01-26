@@ -13,6 +13,7 @@ I am Sergio Giménez
 * ![github_bootstrap](https://icons.getbootstrap.com/icons/github.svg) Open source software in my personal [Github](https://github.com/sergio-gimenez)
 * 📚 My recommended readings available on [Goodreads](https://www.goodreads.com/review/list/127709049-sergio-gim-nez?ref=nav_mybooks).
 * 🛤 Passionate about travelling, meeting new people and descovering new cultures.
+* 🏀 I have played basketball all my life and I have been a basketball coach for several years
 
 ### Want to know more about my work?
 
