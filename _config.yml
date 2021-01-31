@@ -21,12 +21,38 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://sergio-gimenez.github.io'
 baseurl: ''
 title: 'Sergio Giménez'
 description: 'I share stuff here'
 permalink: pretty
+email: "sergiogimenezanton@gmail.com"
+google_analytics: 'UA-188528704-1'
 #logo: "https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree%2Fwhite-youtube-logo-transparent.html&psig=AOvVaw36i0MLBfgVoHf79GIike-D&ust=1611426501387000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjnh9SVsO4CFQAAAAAdAAAAABAI"
+
+# Social
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: sergiogimenez6 # jekyll-seo-tag > Owners twitter username
+author: SergioGimenez # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Sergio Gimenez # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/sergiogimenez6
+    - https://www.linkedin.com/in/sergio-gimant/
+    - https://github.com/sergio-gimenez
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/sergiogimenez6
+  LinkedIn: https://www.linkedin.com/in/sergio-gimant/
+  GitHub: https://github.com/sergio-gimenez
+  link: https://sergio-gimenez.github.io
+  RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  LinkedIn: "#0077B5"
+  Email: false
 
 # Pagination
 paginate: 5
