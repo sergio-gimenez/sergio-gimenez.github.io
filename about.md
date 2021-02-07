@@ -4,7 +4,7 @@ title: About me
 
 ## What I'm Working On
 
-I work as a network engineer intern. Working on developing [RINA](https://pouzinsociety.org/) software implementations ([P4](https://p4.org/), [Netmap](http://info.iet.unipi.it/~luigi/netmap/)).
+I work as a network engineer intern. Working on developing [RINA](https://pouzinsociety.org/) router software implementations ([P4](https://p4.org/), [Netmap](http://info.iet.unipi.it/~luigi/netmap/)).
 
 I studied Telecommunication Engineering's bachelor (major in Networks) at UPC in Barcelona and graduated in 2020. Currently I am doing a [MSc in advanced telecommunications technologies](https://matt.masters.upc.edu/) (e.g machine learning, 5G, cybersecurity).
 
