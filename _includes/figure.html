@@ -1,0 +1,4 @@
+<figure class="figure  figure--{{ include.position | default: 'center' }}">
+  <img class="image" src="{{ include.image }}">
+  {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif %}
+</figure>

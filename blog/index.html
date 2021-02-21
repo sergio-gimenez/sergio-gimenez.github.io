@@ -1,5 +1,12 @@
 ---
-layout: blog
-collectionpage: posts
 title: Blog
+layout: default
+feature_text: <h2 class="whitetext highlighted">Time to time I share stuff here</h2>
+image: https://cdn.pixabay.com/photo/2021/02/08/15/02/mountains-5995081_1280.jpg
 ---
+<main class="main container">
+    <div class="content">
+        {% include post-list.html %}
+    </div>
+    {% include site-aside.html %}
+</main>
