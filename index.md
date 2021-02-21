@@ -1,9 +1,8 @@
 ---
-title:
-aside: true
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Sergio Giménez
+layout: home
+title: Sergio Giménez
+feature_text: <h2 class="whitetext">Sergio Giménez</h2>
+image: /assets/img/portada_test.jpg
 ---
 
 Hi 👋  
@@ -16,12 +15,8 @@ I am Sergio Giménez
 * 🛤 Passionate about travelling, meeting new people and descovering new cultures.
 * 🏀 I have played basketball all my life and I have been a basketball coach for several years
 
-### Want to know more about my work?
+### Want to know more about me and my work?
 
 Check [this section](/about/). 
-
-Test form:
-
-{% include site-form.html %}
 
 You can also reach me via mail at __sergiogimenezanton[at]gmail.com__

@@ -2,7 +2,7 @@
 title: About me
 ---
 
-## What I'm Working On
+## What I'm currently working on
 
 I work as a network engineer intern. Working on developing [RINA](https://pouzinsociety.org/) router software implementations ([P4](https://p4.org/), [Netmap](http://info.iet.unipi.it/~luigi/netmap/)).
 
@@ -20,7 +20,7 @@ _2020 - IEEE; 2020 23rd Conference on Innovation in Clouds, Internet and Network
 
 [**A P4-Enabled RINA Interior Router for Software-Defined Data Centers**](https://www.mdpi.com/2073-431X/9/3/70)  
 C Fernández, S Giménez, E Grasa, S Bunch  
-_2020 - MDPDI; Computers 9 (3), 70_
+_2020 - MDPI; Computers 9 (3), 70_
 
 [**Development of a low-cost prototype to evaluate the performance of Transdermal Optical Links**](https://upcommons.upc.edu/handle/2117/329137)  
 S Giménez  
